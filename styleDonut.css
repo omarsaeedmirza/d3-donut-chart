@@ -1,0 +1,21 @@
+#donut-chart 
+{                                                          
+    height: 10px;
+    margin: 0 auto;                                               
+    position: relative;                                             
+    width: 500px;
+    font-family: monospace;
+    font-size: 100em;
+}
+body
+{
+    text-align: center;
+    background-color: oldlace;
+}
+
+h1
+{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
